@@ -181,3 +181,5 @@ go build -o kube-bench.bin
 또는
 ./kube-bench.bin --benchmark cis-1.23 --json > result.json
 로 로그 생성
+
+해당 링크 : https://seungjuitmemo.tistory.com/371?category=1074586
